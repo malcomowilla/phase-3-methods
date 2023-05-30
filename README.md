@@ -49,6 +49,8 @@ console.log(myFunctionReturnValue);
 // => 2
 ```
 
+
+
 Here, we're calling the function `myFunction` with an **argument** of `1`. We
 are then assigning the **return value** of `myFunction` to a new variable,
 `myFunctionReturnValue`.
